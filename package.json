@@ -1,9 +1,9 @@
 {
-  "name": "pico8-lang",
-  "displayName": "pico8-lang",
+  "name": "pico8-lang-redux",
+  "displayName": "pico8-lang-redux",
   "description": "Language support for PICO-8",
   "version": "0.1.1",
-  "publisher": "ianjsikes",
+  "publisher": "fennellpng",
   "repository": "https://github.com/ianjsikes/pico8-lang",
   "engines": {
     "vscode": "^1.33.0"
