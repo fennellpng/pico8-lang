@@ -20,7 +20,8 @@
           "pico-8"
         ],
         "extensions": [
-          ".lua"
+          ".lua",
+          ".p8"
         ],
         "configuration": "./language-configuration.json"
       }
